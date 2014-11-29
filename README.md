@@ -1,1 +1,1 @@
-This is an intial commit. Our cool project description will be here.
+This is the second commit. Our cool project description will be here.
