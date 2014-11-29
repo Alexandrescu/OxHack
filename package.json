@@ -1,0 +1,22 @@
+{
+  "name": "OxHack",
+  "version": "1.0.0",
+  "description": "Cool project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexandrescu/OxHack.git"
+  },
+  "keywords": [
+    "hack"
+  ],
+  "author": "Andrei Rob and Ricchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexandrescu/OxHack/issues"
+  },
+  "homepage": "https://github.com/Alexandrescu/OxHack"
+}
