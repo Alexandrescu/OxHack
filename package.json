@@ -20,6 +20,14 @@
   },
   "homepage": "https://github.com/Alexandrescu/OxHack",
   "devDependencies": {
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "karma": "^0.12.28",
+    "mocha": "^2.0.1",
+    "typescript": "^1.3.0"
+  },
+  "dependencies": {
+    "gulp-karma": "0.0.4",
+    "gulp-mocha": "^2.0.0",
+    "gulp-typescript": "^2.3.0"
   }
 }
