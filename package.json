@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Alexandrescu/OxHack/issues"
   },
-  "homepage": "https://github.com/Alexandrescu/OxHack"
+  "homepage": "https://github.com/Alexandrescu/OxHack",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
